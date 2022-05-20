@@ -1,0 +1,57 @@
+:root {
+  --bg-color: #fbe012;
+  --link-color: #7bb4ff;
+  --font: serif;
+}
+
+body {
+  height: 80vh;
+  background-color: var(--bg-color);
+  font-family: var(--font);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+}
+
+h1 span {
+  background-color: white;
+  padding: 10px;
+  border: solid black 2px;
+}
+
+.boxes {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+h2 {
+  margin: 0;
+  font-size: 32px;
+}
+
+p {
+  font-size: 20px;
+}
+
+a {
+  color: var(--link-color);
+}
+
+.box {
+  background-color: white;
+  margin: 10px;
+  border: solid black 2px;
+  width: 400px;
+  height: 250px;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
