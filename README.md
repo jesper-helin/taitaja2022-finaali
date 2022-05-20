@@ -1,6 +1,8 @@
 # About this repository
 This repository has all of the files that got me the second place in Taitaja 2022 event in Finland.  
-All files will remain unchanged to give insight to future competitors who wish to know what it takes to get into the top 3.
+All files will remain unchanged to give insight to future competitors who wish to know what it takes to get into the top 3.  
+
+**Database dump can be found in /page/intra**.
 
 ## jesper-helin finaali
 Page mock-ups are in the "docs"-folder  
