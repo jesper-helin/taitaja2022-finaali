@@ -6,7 +6,7 @@ All files will remain unchanged to give insight to future competitors who wish t
 
 ## jesper-helin finaali
 Page mock-ups are in the "docs"-folder  
-The page source code is in the "page"-folder
+The page source code is in the "page"-folder  
 Live page can be found [here](http://pori22jesper.taitaja.treok.io/)
 
 ### Intranet
